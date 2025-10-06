@@ -7,24 +7,24 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/SudoR2spr/txt-leech-bot",
-    "success_url": "https://t.me/Opleech_WD",
+    "repository": "",
+    "success_url": "",
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "20100739",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "3c15b7b5ded9f13b4fb269cfd796a639",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "8490510367:AAFmP-ISuFx4ForE-8Q-E1d2SDGsYbjOeXA",
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "7547625729",
             "required": true
         },
         "SUDO_USERS": {
